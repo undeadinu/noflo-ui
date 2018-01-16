@@ -42,7 +42,7 @@
     "react-dom": "^15.6.0",
     "rtc": "^3.4.0",
     "the-graph": "^0.11.0",
-    "uuid": "^3.0.1"
+    "uuid": "^3.2.1"
   },
   "devDependencies": {
     "babel-core": "^6.26.0",
