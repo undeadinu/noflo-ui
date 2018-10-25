@@ -76,7 +76,7 @@
     "puppeteer": "^1.0.0",
     "sinon": "^5.0.0",
     "syn": "^0.13.0",
-    "webpack": "^4.0.0",
+    "webpack": "^4.23.1",
     "yaml-loader": "^0.5.0"
   },
   "scripts": {
